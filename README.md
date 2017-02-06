@@ -5,7 +5,7 @@ I use it mainly for my electronic parts, but you can really use it for anything 
 Adding inherent files to your part is as easy as clicking a button or simply dropping it in the part folder. Put a Picture with the name “icon.xxx” (xxx can be any common picture type like .jpg|.png|.gif|...) and it will be displayed as an icon of the category or your part. I included an example tree that will be loaded by default in your “My Documents” folder, with can be changed later by changing the folder path.
 
 
-##Youtube Video
+##YouTube Video
 Comming soon!
 
 ## Consider a Donation!
